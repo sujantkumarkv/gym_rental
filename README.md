@@ -1,4 +1,5 @@
 ## WEC NITK RECRUITMENTS: 
+I'm a bit late and I have contacted the mentors as to why. Thanks for allowing time. There's many fine tunes needed, I also didn't deploy but I did all I can under 4 hours. Thanks again :)
 ### Problem Statement:
 The task is to write a smart contract for gym machine rental.
 
