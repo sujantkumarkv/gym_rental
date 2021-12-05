@@ -35,4 +35,6 @@ Bonus:
 - When client calls `_buyAccesToGym`, the funds i.e., `msg.value` are put to `CentralGymWallet` which is just a `mapping` from user's address to an `uint` value.
 - For client details, the `function` is `public` as to allow anyone to call this function & it `emit` events with message as this can be caught by a JS file and can be also shown using frontend. (NOW, ALL IS VERY PROTOTYPE LEVEL)
 
+### POSSIBLE solution as an improvement : each gym equipment can be treated as an asset - as an ERC721 token.
+
 
